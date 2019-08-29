@@ -9,6 +9,7 @@ You can encode random your text with this function<br/>
 This function is good for encodeing👍👌 <br/>
 You can use this in php and python ...<br/>
 If you are a developer or programmer i happy to write this function with another languages<br/>
+I have written examples of how to use these functions in each file<br/>
 
 # Thanks
 Thank you for see this git, if you enjoy please donate us</br>
