@@ -1,3 +1,4 @@
+<?php
 /*
 тнιѕ ωαѕ cяєαтє ωιтн мяѕυвмιѕѕινє ιη 2018
 
@@ -57,3 +58,4 @@ function random_decode($str){
 echo "Encode Your Text Is:".random_encode("hi");
 #Encode Text | print hi
 echo "Decode Your Text Is:".random_decode("L9wBk6wLQw5F23lB1Q");
+?>
