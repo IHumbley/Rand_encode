@@ -13,4 +13,4 @@ I have written examples of how to use these functions in each file<br/>
 
 # Thanks
 Thank you for see this git, if you enjoy please donate us</br>
-And finally I thank **Mohammed** for helping with this
+
